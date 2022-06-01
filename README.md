@@ -17,8 +17,8 @@ Wickets Fallen (Eg : 2)
 Runs scored in previous 5 Overs (Eg : 52)
 Wickets taken in previous 5 Overs (Eg : 1) 
 
-	Here, the Venue at which a match is being played is also important since the Score varies. For Example, in a smaller venue such as M Chinnaswamy (Bengaluru), the score will be quite higher compared to larger venues such as Eden Garderns (Kolkata).
+Here, the Venue at which a match is being played is also important since the Score varies. For Example, in a smaller venue such as M Chinnaswamy (Bengaluru), the score will be quite higher compared to larger venues such as Eden Garderns (Kolkata).
 
-	As a result, we get the predicted score after providing the required inputs.
+As a result, we get the predicted score after providing the required inputs.
 The predicted score is generated using Lasso Regression since it was more effective than Random Forest Classifier.
 
